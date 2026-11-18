@@ -1,0 +1,125 @@
+{
+  "schema": "orbital-proof/1",
+  "title": "Orbital / Public-domain demo",
+  "creator": "U.S. Geological Survey / Earth As Art 5",
+  "description": "Five nonexclusive, processed satellite images. These are a free public-domain demonstration, not original photography by this studio.",
+  "originalsIncluded": false,
+  "coverNumber": 1,
+  "files": [
+    {
+      "number": 1,
+      "title": "Shoal Complex",
+      "description": "Tidal sand ridges and channels near the Schooner Cays, rendered in blue and turquoise. Source and rights: https://www.usgs.gov/media/images/shoal-complex",
+      "tags": [
+        "water",
+        "Eleuthera, Bahamas",
+        "Landsat 8"
+      ],
+      "credit": "U.S. Geological Survey / Earth As Art 5",
+      "original": "originals/01-shoal-complex.jpg",
+      "preview": "previews/01-shoal-complex.jpg",
+      "originalFilename": "orbital-shoal-complex.jpg",
+      "width": 2400,
+      "height": 2400,
+      "bytes": 920505,
+      "sha256": "f50bb22e4a15f91a714f17686653c85e73358ef7bef8265d68967b6a507bfebd",
+      "mime": "image/jpeg",
+      "previewWidth": 1600,
+      "previewHeight": 1600,
+      "demo": true,
+      "originalIncluded": false
+    },
+    {
+      "number": 2,
+      "title": "Tapestry",
+      "description": "Geological patterns in the Asharah fault zone, close to the Yemen border. Source and rights: https://www.usgs.gov/media/images/tapestry",
+      "tags": [
+        "land",
+        "Southwestern Saudi Arabia",
+        "Landsat 8"
+      ],
+      "credit": "U.S. Geological Survey / Earth As Art 5",
+      "original": "originals/02-tapestry.jpg",
+      "preview": "previews/02-tapestry.jpg",
+      "originalFilename": "orbital-tapestry.jpg",
+      "width": 2400,
+      "height": 2400,
+      "bytes": 3786097,
+      "sha256": "d2cae20b558757d31788765fd3db63642c26840b0e27a8b1e852b9f4ee5e6663",
+      "mime": "image/jpeg",
+      "previewWidth": 1600,
+      "previewHeight": 1600,
+      "demo": true,
+      "originalIncluded": false
+    },
+    {
+      "number": 3,
+      "title": "Serene Expressions",
+      "description": "Sediment flowing off the Louisiana coast creates soft, layered color. Source and rights: https://www.usgs.gov/media/images/serene-expressions",
+      "tags": [
+        "water",
+        "Louisiana coast, United States",
+        "Landsat 8"
+      ],
+      "credit": "U.S. Geological Survey / Earth As Art 5",
+      "original": "originals/03-serene-expressions.jpg",
+      "preview": "previews/03-serene-expressions.jpg",
+      "originalFilename": "orbital-serene-expressions.jpg",
+      "width": 2400,
+      "height": 2400,
+      "bytes": 1160458,
+      "sha256": "5b248372d5b5bd4f8940f3232a417ebf424e1aa4a83c5ae9f0ccbc838909532d",
+      "mime": "image/jpeg",
+      "previewWidth": 1600,
+      "previewHeight": 1600,
+      "demo": true,
+      "originalIncluded": false
+    },
+    {
+      "number": 4,
+      "title": "Icy Vortex",
+      "description": "Floating sea ice traces intricate currents in the Canadian Arctic. Source and rights: https://www.usgs.gov/media/images/icy-vortex",
+      "tags": [
+        "water",
+        "Foxe Basin, Canada",
+        "Landsat 8"
+      ],
+      "credit": "U.S. Geological Survey / Earth As Art 5",
+      "original": "originals/04-icy-vortex.jpg",
+      "preview": "previews/04-icy-vortex.jpg",
+      "originalFilename": "orbital-icy-vortex.jpg",
+      "width": 2400,
+      "height": 2400,
+      "bytes": 3008791,
+      "sha256": "da63128285ccb031fcfb5b42262aff9a291ab61924764eeddaf28edaba7ea6f2",
+      "mime": "image/jpeg",
+      "previewWidth": 1600,
+      "previewHeight": 1600,
+      "demo": true,
+      "originalIncluded": false
+    },
+    {
+      "number": 5,
+      "title": "Painted Horse",
+      "description": "Volcanic craters and old lava flows shape the northern end of Isabela Island. Source and rights: https://www.usgs.gov/media/images/painted-horse",
+      "tags": [
+        "land",
+        "Isabela Island, Galápagos",
+        "ASTER"
+      ],
+      "credit": "U.S. Geological Survey / Earth As Art 5",
+      "original": "originals/05-painted-horse.jpg",
+      "preview": "previews/05-painted-horse.jpg",
+      "originalFilename": "orbital-painted-horse.jpg",
+      "width": 2400,
+      "height": 2400,
+      "bytes": 1412276,
+      "sha256": "c771d9269186955d24f794e46a49cb3cae88ac14ad88c5fb4c2884abb0f2a112",
+      "mime": "image/jpeg",
+      "previewWidth": 1600,
+      "previewHeight": 1600,
+      "demo": true,
+      "originalIncluded": false
+    }
+  ]
+}
